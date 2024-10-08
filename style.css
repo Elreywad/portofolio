@@ -1,0 +1,13 @@
+*{
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+}   
+header{
+    color: white;
+}
+#menu{
+    visibility: hidden;
+}
+#hero{
+    height: calc(100vh - 68px);
+}
